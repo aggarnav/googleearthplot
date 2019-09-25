@@ -1,7 +1,7 @@
 googleearthplot
 ===============
 
-Python library for plotting on google earth
+Python library for plotting on google earth.
 
 ## Galleries
 
